@@ -1,8 +1,7 @@
 {
     "require": {
         "arhitector/yandex": "^2.3",
-        "php-http/message-factory": "^1.1",
-        "guzzlehttp/psr7": "^2.7"
+        "php-http/message-factory": "^1.1"
     },
     "config": {
         "allow-plugins": {

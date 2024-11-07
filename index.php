@@ -75,8 +75,6 @@ foreach ($resources as $resource) {
 }
 echo "</ul>";
 
-
-
 ?>
 
 </body>
