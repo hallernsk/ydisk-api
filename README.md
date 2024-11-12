@@ -1,6 +1,6 @@
 #### task_8
 
-CRUD приложенияе для работы с Яндекс Диском на основе библиотеки https://github.com/jack-theripper/yandex
+CRUD приложение для работы с Яндекс Диском на основе библиотеки https://github.com/jack-theripper/yandex
 
 (подключение к Яндекс Диску с использованием OAuth-токена):
 
